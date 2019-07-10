@@ -162,7 +162,7 @@
         "artifactsBaseUrl": "",
         "description": "URL to acquire other templates"
       },
-      "defaultValue": "https://github.com/NikCharlebois/azure-quickstart-templates/raw/master/sharepoint2019-non-ha"
+      "defaultValue": "https://github.com/ittaskforce-nz/sharepoint2019-non-ha"
     },
     "spPublicIPNewOrExisting": {
       "type": "string",
